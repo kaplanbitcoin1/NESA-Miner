@@ -55,10 +55,10 @@ docker-compose --version
  
  `Settings > Access Tokens > Create New Token > Write`
  
- `(Key'i bir yere kaydedelim, sayfadan çıktıktan sonra bir daha göremezsiniz)`
+ `(Let's save the key somewhere; you won't be able to see it again after leaving the page.)`
 
 
-# Şimdi Script'i çalıştıralım
+# Now let's run the script
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
@@ -68,12 +68,12 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 * Wizardy
 * Moniker
-* Mail adresinizi girin
-* Bonus puan almak için: `nesa1pe9wwz9w0hcy54245c0ys6889kekrepf8zkh7f`
-* HugginFace üzerinden aldığınız api keyi yazıyoruz
-* Keplr cüzdan private key'i girelim ve Yes diyelim, işlem tamamdır
+* Enter your email address
+* To get bonus points: `nesa1pe9wwz9w0hcy54245c0ys6889kekrepf8zkh7f`
+* Enter the API key you got from HuggingFace
+* Let's enter the Keplr wallet private key and select Yes; the process is complete
 
-# Node id alıp [Explorer](https://node.nesa.ai/) üzerinden işlemlerinizi kontrol edebilirsiniz.
+# You can get your node ID and check your transactions through [Explorer](https://node.nesa.ai/)
 
 
 ```
