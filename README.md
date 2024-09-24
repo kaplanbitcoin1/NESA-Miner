@@ -73,7 +73,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 * Enter the API key you got from HuggingFace
 * Let's enter the Keplr wallet private key and select Yes; the process is complete
 
-### You can get your node ID using the following command
+# You can get your node ID using the following command
 
 
 ```
