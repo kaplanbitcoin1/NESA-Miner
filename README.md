@@ -71,7 +71,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 * Enter your email address
 * To get bonus points: `nesa1pe9wwz9w0hcy54245c0ys6889kekrepf8zkh7f`
 * Enter the API key you got from HuggingFace
-* Let's enter the Keplr wallet private key and select Yes; the process is complete
+* Let's enter the private key obtained from Keplr or Leap wallet and select Yes; the process is complete
 
 # You can get your node ID using the following command
 
