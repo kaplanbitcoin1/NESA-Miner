@@ -45,7 +45,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 * Wizardy
 * Moniker
-* Mail
+* Mail adresinizi girin
 * Bonus puan almak için: `nesa1pe9wwz9w0hcy54245c0ys6889kekrepf8zkh7f`
 * HugginFace üzerinden aldığınız api keyi yazıyoruz
 * Keplr cüzdan private key'i girelim ve Yes diyelim, işlem tamamdır
