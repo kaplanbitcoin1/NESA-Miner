@@ -1,17 +1,10 @@
 ![image](https://github.com/user-attachments/assets/2d97e2d6-1dae-4296-ac16-0f67448a74d1)
 
 
- * [Website](https://nesa.ai/)<br>
-
-
-
-> Website: https://nesa.ai
-> Discord: https://discord.gg/nesa
-> Twitter: https://twitter.com/nesaorg
-> Docs: https://docs.nesa.ai/nesa
-> Playground: https://www.legacy.nesa.ai/playground
-> Galxe: https://app.galxe.com/quest/KYbqqGoGuCuXRmWvtf3e2w
-
+* [Website](https://nesa.ai/)<br>
+* [Discord](https://discord.gg/nesa)<br>
+* [Twitter](https://twitter.com/nesaorg/)<br>
+* [Docs](https://docs.nesa.ai/nesa)<br>
 
 
 
