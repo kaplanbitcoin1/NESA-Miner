@@ -75,7 +75,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 
 # You can get your node ID using the following command
 
-# After getting the ID, you can check your transactions via [Explorer](https://node.nesa.ai/)
+* After getting the ID, you can check your transactions via [Explorer](https://node.nesa.ai/)
 
 
 ```
