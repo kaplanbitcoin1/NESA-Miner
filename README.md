@@ -62,4 +62,4 @@ cat ~/.nesa/identity/node_id.id
 Nesa ufak bir kurulum gif'i hazırlamış göz atabilirsiniz
 
 
-![gif] (https://raw.githubusercontent.com/nesaorg/bootstrap/master/images/bootstrap.gif)
+![gif](https://raw.githubusercontent.com/nesaorg/bootstrap/master/images/bootstrap.gif)
