@@ -7,7 +7,7 @@
 | ------------ | ------------ |
 | CPU | 4 Core - Ne kadar çok çekirdeğe sahipseniz performans o denli artacaktır. |
 | RAM | Minimum 4 GB RAM |
-| Storage | 50 GB SSD İlerideki işlemler için daha fazla alan gerekebilir. |
+| Storage | 50 GB SSD - İlerideki işlemler için daha fazla alan gerekebilir. |
 | GPU | CUDA etkin GPU'lar öneriliyor. CPU madenciliği mevcut fakat tüm modeller için geçerli değil. |
 
 
