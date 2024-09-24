@@ -51,7 +51,7 @@ docker-compose --version
 
 # Şimdi Script'i çalıştıralım
 
-```shell
+```
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
 ```
 
