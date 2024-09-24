@@ -64,7 +64,7 @@ docker-compose --version
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
 ```
 
-# Sırasıyla
+# In order
 
 * Wizardy
 * Moniker
@@ -83,7 +83,7 @@ cat ~/.nesa/identity/node_id.id
 * After getting the ID, you can check your transactions via [Explorer](https://node.nesa.ai/)
 
 
-Nesa ufak bir kurulum gif'i hazırlamış göz atabilirsiniz
+Nesa has prepared a little installation GIF for you
 
 
 ![gif](https://raw.githubusercontent.com/nesaorg/bootstrap/master/images/bootstrap.gif)
