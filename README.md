@@ -51,7 +51,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 * HugginFace üzerinden aldığınız api keyi yazıyoruz
 * Keplr cüzdan private key'i girelim ve Yes diyelim, işlem tamamdır
 
-# Node id alıp [Explorer](https://node.nesa.ai/) üzerinden puanlarınızı kontrol edebilirsiniz.
+# Node id alıp [Explorer](https://node.nesa.ai/) üzerinden işlemlerinizi kontrol edebilirsiniz.
 
 
 ```shell
