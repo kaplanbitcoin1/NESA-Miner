@@ -57,3 +57,9 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 ```shell
 cat ~/.nesa/identity/node_id.id
 ```
+
+
+Nesa ufak bir kurulum gif'i hazırlamış göz atabilirsiniz
+
+
+[Gif](https://raw.githubusercontent.com/nesaorg/bootstrap/master/images/bootstrap.gif/)
