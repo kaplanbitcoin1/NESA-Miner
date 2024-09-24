@@ -83,7 +83,7 @@ cat ~/.nesa/identity/node_id.id
 * After getting the ID, you can check your transactions via [Explorer](https://node.nesa.ai/)
 
 
-Nesa has prepared a little installation GIF for you
+### Nesa has prepared a little installation GIF for you
 
 
 ![gif](https://raw.githubusercontent.com/nesaorg/bootstrap/master/images/bootstrap.gif)
