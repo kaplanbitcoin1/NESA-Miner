@@ -2,7 +2,7 @@
 
 
 
-## 💻 Sistem Gereksinimleri
+# Sistem Gereksinimleri
 | Bileşenler | Minimum Gereksinimler | 
 | ------------ | ------------ |
 | CPU | 4 Core - Ne kadar çok çekirdeğe sahipseniz performans o denli artacaktır. |
