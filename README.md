@@ -73,7 +73,9 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 * Enter the API key you got from HuggingFace
 * Let's enter the Keplr wallet private key and select Yes; the process is complete
 
-# You can get your node ID and check your transactions through [Explorer](https://node.nesa.ai/)
+# You can get your node ID using the following command
+
+# After getting the ID, you can check your transactions via [Explorer](https://node.nesa.ai/)
 
 
 ```
