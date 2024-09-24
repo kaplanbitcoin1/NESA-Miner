@@ -31,3 +31,7 @@ docker-compose --version
 ```
 
 
+
+[HugginFace](https://huggingface.co/) Üzerinden hesap açıp Key almamız gerekiyor.
+
+
