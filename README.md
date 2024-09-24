@@ -35,7 +35,7 @@ docker-compose --version
 [HugginFace](https://huggingface.co/) Üzerinden hesap açıp Key almamız gerekiyor. Settings > Access Tokens > Create New Token > Write (Key'i bir yere kaydedelim, sayfadan çıktıktan sonra bir daha göremezsiniz)
 
 
-# Şimdi Script'i çalıştıralım.
+# Şimdi Script'i çalıştıralım
 
 ```shell
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
@@ -48,4 +48,11 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 * Mail
 * Bonus puan almak için: `nesa1pe9wwz9w0hcy54245c0ys6889kekrepf8zkh7f`
 * HugginFace üzerinden aldığınız api keyi yazıyoruz
-* Keplr cüzdan private key'i girelim
+* Keplr cüzdan private key'i girelim ve Yes diyelim, işlem tamamdır
+
+# Node id alıp [Explorer](https://node.nesa.ai/) üzerinden puanlarınızı kontrol edebilirsiniz.
+
+
+```shell
+cat ~/.nesa/identity/node_id.id
+```
