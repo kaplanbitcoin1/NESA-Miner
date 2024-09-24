@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/2d97e2d6-1dae-4296-ac16-0f67448a74d1)
 
 
-- [Website](https://nesa.ai/)<br>
-- [Discord](https://discord.gg/nesa)<br>
-- [Twitter](https://twitter.com/nesaorg/)<br>
-- [Docs](https://docs.nesa.ai/nesa)<br>
+ [Website](https://nesa.ai/)<br>
+ [Discord](https://discord.gg/nesa)<br>
+ [Twitter](https://twitter.com/nesaorg/)<br>
+ [Docs](https://docs.nesa.ai/nesa)<br>
 
 
 
