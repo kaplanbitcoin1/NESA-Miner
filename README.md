@@ -35,7 +35,7 @@ docker version
 
 # Docker Compose
 
-```shell
+```
 VER=$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep tag_name | cut -d '"' -f 4)
 curl -L "https://github.com/docker/compose/releases/download/"$VER"/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 
@@ -67,7 +67,7 @@ bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootst
 # Node id alıp [Explorer](https://node.nesa.ai/) üzerinden işlemlerinizi kontrol edebilirsiniz.
 
 
-```shell
+```
 cat ~/.nesa/identity/node_id.id
 ```
 
