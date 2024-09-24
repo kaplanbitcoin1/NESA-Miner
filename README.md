@@ -11,7 +11,7 @@
 | GPU | CUDA etkin GPU'lar öneriliyor. CPU madenciliği mevcut fakat tüm modeller için geçerli değil. |
 
 
-# Sunucu güncelleyelim
+# Sunucuyu güncelleyelim
 
 
 ```shell
