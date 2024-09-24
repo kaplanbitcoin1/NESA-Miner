@@ -41,4 +41,11 @@ docker-compose --version
 bash <(curl -s https://raw.githubusercontent.com/nesaorg/bootstrap/master/bootstrap.sh)
 ```
 
+# Sırasıyla
+
+* Wizardy
+* Moniker
+* Mail
+* Bonus puan almak için: nesa1pe9wwz9w0hcy54245c0ys6889kekrepf8zkh7f
+* HugginFace üzerinden aldığınız api keyi girin
 
