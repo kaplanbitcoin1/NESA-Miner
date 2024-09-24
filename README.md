@@ -52,6 +52,7 @@ docker-compose --version
 
 
  `[HugginFace](https://huggingface.co/) Üzerinden hesap açıp Key almamız gerekiyor. Settings > Access Tokens > Create New Token > Write`
+ 
  `(Key'i bir yere kaydedelim, sayfadan çıktıktan sonra bir daha göremezsiniz)`
 
 
