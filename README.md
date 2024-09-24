@@ -17,7 +17,7 @@
 | GPU | CUDA-enabled GPUs are recommended. CPU mining is available but not valid for all models |
 
 
-# Sunucuyu güncelleyelim
+# Let's update the server
 
 
 ```
@@ -27,7 +27,7 @@ sudo apt install jq -y
 
 
 
-# Docker yükleyelim
+# Docker Installation
 
 ```
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
@@ -51,7 +51,7 @@ docker-compose --version
 
 
 
- * [HugginFace](https://huggingface.co/) Üzerinden hesap açıp Key almamız gerekiyor
+ *  We need to create an account on [HugginFace](https://huggingface.co/) and get a key
  
  `Settings > Access Tokens > Create New Token > Write`
  
