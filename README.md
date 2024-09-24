@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/2d97e2d6-1dae-4296-ac16-0f67448a74d1)
+
+
+
 # Sunucu güncelleyelim
 
 
